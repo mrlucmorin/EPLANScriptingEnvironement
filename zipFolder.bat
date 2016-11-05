@@ -1,3 +1,3 @@
 @ECHO OFF
 
-7z a -tzip %1.zip .\%1\*
+7z a -tzip "EPLAN Scripting.zip" .\Source\*
